@@ -1,2 +1,2 @@
 # teste_cypress
-Teste de Automação
+Teste de Automação - Ok
